@@ -43,3 +43,49 @@ APP 应以 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Chea
 2. 提案状态更变后，可及时与社区成员沟通，促进提案的推进和实现。
 3. 在提交前，请确保你的提案无明显的技术缺陷或实现障碍，以提高通过率。
 
+---------
+
+## What is an APP?
+APP(AO Product Proposal), is a standardized design document initiated by Arweave Oasis. It is intended for submitting innovative and feasible product proposals to the Arweave and AO communities. An APP should include a concise technical solution and demonstrate the necessity of using AO or Arweave technologies. The author of the APP is responsible for building consensus within the community and recording various suggestions.
+
+## Why do we need an APP?
+On February 28, 2024, the Arweave community launched the AO computing network testnet. As a next-generation blockchain hyper-parallel computing network, AO has unique technical advantages and allows developers to freely create innovative, interesting, and practical products. Therefore, we need more developers. We encourage developers with a product mindset to share their ideas, invite like-minded individuals to participate in proposals, and foster the creation of interesting and valuable products through the exchange of ideas and discussions.
+
+## APP Workflow
+### Participants
+The participants in an APP include creators, Arweave & AO official personnel, Arweave Oasis organizers, and APP proposal discussants.
+
+### Preparations
+Before writing an APP, carefully consider your product concept. It is recommended to review existing APPs to ensure your proposal is original and not a duplicate submission. If you find a similar idea already exists, you can participate in the discussion under the existing APP and offer optimization suggestions, thus avoiding wasting time on proposals that might be rejected or duplicated.
+
+Once your proposal is approved, it indicates strong interest from the official team and likely significant attention from the community. You should actively promote your proposal within the community to attract more developers to participate, helping to optimize and implement the proposal. If your proposal includes a demo, it is more likely to receive additional resources from Arweave & AO.
+
+### Process
+![CleanShot 2024-08-23 at 15 09 41@2x](https://github.com/user-attachments/assets/bf20ebb2-33d7-420c-b5a9-e6cc35c96a22)
+
+### APP Status Explanation
+* **Draft**: All proposals initially have a Draft status and must be thoroughly considered and submitted in demo form to the Arweave Oasis/ao-product-proposal Discussion section.
+* **Withdrawn**: If a Discussion administrator deems a proposal unrealistic, repetitive, or unfeasible, it will be marked as Withdrawn, indicating it is discarded.
+* **Stagnant**: Proposals that cannot proceed due to current resource or technical limitations will be marked as Stagnant and may be revisited when conditions improve.
+* **Approve**: When an administrator believes the proposal is feasible and can move forward, it will be marked as Approved.
+
+### APP Best Practices
+A good APP should include the following information:
+
+* **Title**: The format is APP + serial number + project title (brief and concise), for example, "APP1 Ethereum and AO Cross-Chain Bridge."
+* **Description**: Summarize the project content and its unique advantages in one sentence, explaining why it will attract users.
+* **Motivation (Optional)**: Explain why this product is needed in the current AO ecosystem or the broader blockchain ecosystem, and whether AO is the only feasible solution.
+* **Principle**: Include the design plan, technical principles, and technical feasibility analysis.
+* **Reference Implementation (Optional)**: List previous similar solutions or related technologies as supporting material for the product's feasibility.
+* **Required Resources (Optional)**: Useful for future team formation.
+
+Note: The above content is not strictly fixed, but these basic elements should be clearly stated in the document.
+
+### APP Template and Format
+APPs should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format. You can [refer to the template](https://github.com/ArweaveOasis/ao-product-proposal/blob/main/app-template.md) for implementation.
+
+## Notes
+1. Please maintain your APP regularly. If it remains unupdated or undiscussed for a long period, we will mark your APP as Withdrawn.
+2. After a proposal’s status changes, communicate promptly with community members to facilitate the advancement and realization of the proposal.
+3. Before submission, ensure that your proposal has no obvious technical flaws or implementation obstacles to increase the approval rate.
+
