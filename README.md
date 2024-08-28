@@ -36,7 +36,8 @@ APP 的参与者包括创作者、Arweave&AO 官方人员、Arweave Oasis 组织
 注：以上内容并非完全固定格式，但文档中应清晰阐述这些基本内容。
 
 ### APP 模板及格式
-APP 应以 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 格式编写。你可以[参考模板](https://github.com/ArweaveOasis/ao-product-proposal/blob/main/app-template.md)来实现。
+* APP 序号应按照顺序增加，可通过筛选查看最近的 APP 序列号；
+* APP 应以 [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) 格式编写。你可以[参考模板](https://github.com/ArweaveOasis/ao-product-proposal/blob/main/app-template.md)来实现。
 
 ## 注意事项
 1. 请定期维护你的 APP，若长期无人更新或讨论，我们将把你的 APP 标记为 Withdrawn。
@@ -82,7 +83,8 @@ A good APP should include the following information:
 Note: The above content is not strictly fixed, but these basic elements should be clearly stated in the document.
 
 ### APP Template and Format
-APPs should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format. You can [refer to the template](https://github.com/ArweaveOasis/ao-product-proposal/blob/main/app-template.md) for implementation.
+* APP serial numbers should be added sequentially, and the most recent APP serial numbers can be viewed by filtering;
+* APPs should be written in [Markdown](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet) format. You can [refer to the template](https://github.com/ArweaveOasis/ao-product-proposal/blob/main/app-template.md) for implementation.
 
 ## Notes
 1. Please maintain your APP regularly. If it remains unupdated or undiscussed for a long period, we will mark your APP as Withdrawn.
